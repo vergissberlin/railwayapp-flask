@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/vergissberlin/railway/main/docs/railway-template.schema.json",
+  "schemaVersion": 1,
+  "project": "railwayapp-flask",
+  "repo": "vergissberlin/railwayapp-flask",
+  "displayName": "Flask",
+  "publishedCode": "flask-vb",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-flask/main/template-header.svg",
+  "description": "Deploy Flask on Railway with Gunicorn and minimal production defaults.",
+  "workspaceAutomation": false
+}
