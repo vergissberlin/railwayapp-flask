@@ -5,7 +5,8 @@
   "repo": "vergissberlin/railwayapp-flask",
   "displayName": "Flask",
   "publishedCode": "flask-vb",
-  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-flask/main/template-header.svg",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-flask/main/logo-flask.svg",
   "description": "Deploy Flask on Railway with Gunicorn and minimal production defaults.",
-  "workspaceAutomation": false
+  "workspaceAutomation": false,
+  "logoFile": "logo-flask.svg"
 }

@@ -13,10 +13,7 @@
   <circle cx="1185" cy="205" r="56" fill="#06B6D4" opacity="0.15"/>
   
       <rect x="64" y="60" width="152" height="152" rx="24" fill="#0B1228" opacity="0.92"/>
-      
-      <circle cx="140" cy="124" r="48" fill="#3fad48" opacity="0.95"/>
-      <text x="140" y="134" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="26" font-weight="700">F</text>
-    
+      <image href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjM2ZhZDQ4IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Rmxhc2s8L3RpdGxlPjxwYXRoIGQ9Ik0xMC43NzMgMi44NzhjLS4wMTMgMS40MzQuMzIyIDQuNjI0LjQ0NSA1LjczNGwtOC41NTggMy44M2MtLjU2LS45NTktLjk4LTIuMzA0LTEuMjM3LTMuMzhsLS4wNi4wMjdjLS4yMDUuMDktLjQwNi4wNTMtLjQ5NC0uMDg4bC0uMDExLS4wMTgtLjgyLTEuNTA2Yy0uMDU4LS4xMDUtLjA1LS4yNTIuMDI0LS4zOTJhLjc4Ljc4IDAgMCAxIC4zNTgtLjMzMWw5LjgyNC00LjIwN2MuMTQ2LS4wNjQuMjk5LS4wNjMuNC4wMDQuMTA2LjA2Mi4xMjcuMTI4LjEzLjMyN1ptLjY4IDdjLjUyMyAxLjk3LjY3NSAyLjQxMi44MzIgMi44MThsLTcuMjYzIDMuN2ExOS4zNSAxOS4zNSAwIDAgMS0xLjgxLTIuODNsOC4yNC0zLjY4OVptMTIuNDMyIDguNzg2aC4wMDNjLjI4My40MDItLjA0Ny42NTctLjE1My42OThsLS45NDcuMzdjLjAzNy4xMjUuMDM1LjMxOS0uMjE3LjQxNGwtLjczNi4yODdjLS4yMjkuMDktLjM5OC0uMDU5LS40Mi0uMmwtLjAyNS0uMTI1Yy00LjQyNyAxLjc4NC03Ljk0IDEuNjg1LTEwLjY5Ni42NDctMS45ODEtLjc0NS0zLjU3Ni0xLjk4My00Ljg0Ni0zLjM3OWw2Ljk0OC0zLjU0Yy43MjEgMS40MzEgMS41ODYgMi40NTQgMi41MDkgMy4xNzggMi4wODYgMS42MzggNC40MTUgMS43MTIgNS43OTMgMS41NjNsLS4wNDctLjIzM2MtLjAxNS0uMDc3LjAwNy0uMTM1LjA4Ni0uMTY1bC43MzQtLjI4OGEuMzAyLjMwMiAwIDAgMSAuMzQyLjA4NmwuNzQ4LS4yODhhLjMwNi4zMDYgMCAwIDEgLjM0MS4wODZsLjU4My44OVoiLz48L3N2Zz4=" x="84" y="80" width="112" height="112" preserveAspectRatio="xMidYMid meet"/>
     
   <text x="258" y="122" fill="#FFFFFF" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="52" font-weight="800">Flask</text>
   <text x="258" y="168" fill="#B6C2FF" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="28" font-weight="500">Railway Template</text>
