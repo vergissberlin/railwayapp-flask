@@ -4,7 +4,7 @@
 
 Minimal Flask app served with Gunicorn for Railway.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/flask-vb?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/flask?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## 🏗️ Architecture
 
@@ -26,6 +26,10 @@ flowchart LR
 docker build -t railwayapp-flask .
 docker run --rm -p 8000:8000 -e PORT=8000 railwayapp-flask
 ```
+
+## 💬 Support
+
+Questions or feedback? Visit the [template forum on Railway Central Station](https://station.railway.com/templates/flask-542d7634).
 
 <!-- footer -->
 ---
