@@ -27,6 +27,10 @@ docker build -t railwayapp-flask .
 docker run --rm -p 8000:8000 -e PORT=8000 railwayapp-flask
 ```
 
+## 💬 Support
+
+Questions or feedback? Visit the [template forum on Railway Central Station](https://station.railway.com/templates/flask-542d7634).
+
 <!-- footer -->
 ---
 
